@@ -1,7 +1,6 @@
 {
   "name": "lui-g",
-  "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lui-g Unique Id Generator is the simplest unique id implementation with custom prefix support.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
