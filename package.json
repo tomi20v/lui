@@ -1,6 +1,6 @@
 {
   "name": "lui-g",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Lui-g Unique Id Generator is the simplest unique id implementation with custom prefix support.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -26,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/tomi20v/lui-g/issues"
   },
-  "homepage": "https://github.com/tomi20v/lui-g#readme"
+  "homepage": "https://github.com/tomi20v/lui-g#readme",
+  "keywords": [
+    "uniqueid",
+    "unique id",
+    "prefix",
+    "unique id",
+    "unique id generator",
+    "id generator"
+  ]
 }
