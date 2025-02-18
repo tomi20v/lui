@@ -27,7 +27,7 @@ npm install --save lui-g
 ## Usage
 
 ```ts
-import { uniqueId } from "ts-lui";
+import { uniqueId } from "lui-g";
 
 console.log(uniqueId()); // "lui-1"
 console.log(uniqueId()); // "lui-2"
